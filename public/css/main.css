@@ -1,0 +1,26 @@
+
+body{
+	/*font-family: 'Montserrat', sans-serif;*/
+	background-color: #F0C98B;
+	height: 800px;
+}
+#list-container{
+	border-style: solid;
+	height:360px; 
+	overflow:auto;
+}
+
+#list-head{
+	position: sticky; 
+	top: 0;
+}
+
+#list-total{
+	margin-top: 20px;
+	margin-right: 10%;
+}
+
+small{
+	color: gray;
+	margin-left: 10px;
+}
